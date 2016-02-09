@@ -1,2 +1,2 @@
 # hello-world
-Initial setup
+This is the initial description for the hello-world test repository.
